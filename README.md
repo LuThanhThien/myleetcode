@@ -1,2 +1,3 @@
-# MyLeetcode-150
-Keep track of my Leetcode150 Practice!
+# MyLeetcode
+Keep track of my Leetcode Practice!
+export PYTHONPATH=$PYTHONPATH:<path/to/this/repository>
